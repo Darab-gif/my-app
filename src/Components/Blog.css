@@ -45,6 +45,9 @@
   line-height: 26px;
 }
 
+.blogInfo {
+  margin-left: 80px;
+}
 .blogMedia button {
   padding: 16px;
   background-color: #b30;
@@ -73,5 +76,8 @@
     height: 30rem;
     width: 23rem;
     border-radius: 10px;
+  }
+  .blogInfo {
+    margin-left: 0px;
   }
 }
